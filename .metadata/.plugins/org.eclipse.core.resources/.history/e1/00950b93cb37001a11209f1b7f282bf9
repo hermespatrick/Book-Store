@@ -1,0 +1,9 @@
+package com.bookstore.entity;
+
+public class Calculator {
+	
+	public int Add(a,b) {
+		return a+b;
+	}
+
+}
