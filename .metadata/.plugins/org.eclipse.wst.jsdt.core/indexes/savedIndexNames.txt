@@ -3,7 +3,6 @@ INDEX VERSION 1.4+D:\Patrick\Java_Bookstore\.metadata\.plugins\org.eclipse.wst.j
 4017995995.index
 3555644095.index
 4105054610.index
-3555644095.index
 1871524057.index
 3974719065.index
 1843235609.index
